@@ -4,4 +4,4 @@ amazon_de_project/
 ├── docker-compose.yaml
 ├── .gitignore
 ├── requirements.txt    # (Libraries like pandas, sqlalchemy, psycopg2)
-└── README.md           # (Documentation - we will write this later)
+└── README.md           

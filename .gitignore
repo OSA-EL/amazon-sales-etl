@@ -2,3 +2,4 @@ __pycache__/
 .env
 *.csv
 postgres_data/
+.4Learn.txt 
