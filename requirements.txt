@@ -4,3 +4,5 @@ psycopg2-binary
 kaggle
 python-dotenv
 requests
+streamlit
+plotly
