@@ -3,4 +3,4 @@ __pycache__/
 *.csv
 postgres_data/
 4Learn.txt
-assets/
+.assets
