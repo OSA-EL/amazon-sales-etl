@@ -1,6 +1,6 @@
 amazon_de_project/
 ├── data/               # (Local storage for Kaggle files - ignored by git)
-├── scripts/            # (Python ETL scripts)
+├── scripts/            # (Python ETL scripts and Streamlit dashboard script)
 ├── docker-compose.yaml
 ├── .gitignore
 ├── requirements.txt    # (Libraries like pandas, sqlalchemy, psycopg2)
